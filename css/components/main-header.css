@@ -2,4 +2,13 @@
 {
     background-color: aquamarine;
     width: 100%;
+    height: 90px;
+}
+
+.main-header .list
+{
+    display: flex;
+    background-color: black;
+    list-style: none; /*TIRA A BOLINHAS DA LISTA*/
+    justify-content: flex-end;
 }
