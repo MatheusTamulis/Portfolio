@@ -1,8 +1,9 @@
 .box-project
 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     background-color: chartreuse;
     margin: 70px auto 0 auto;
     width: 90%;
-    height: 500px;
-    
 }
