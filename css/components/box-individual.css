@@ -8,11 +8,24 @@
     background-color: aqua;
     text-decoration: none;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    
 }
 
 .box-individual.-margin
 {
     margin-bottom: 50px;
+}
+
+.box-individual .cola
+{
+    font-size: 20px;
+    color: aqua;
+    transition: .8s; 
+}
+
+.box-individual:hover span
+{
+    color: rgb(0, 0, 0);
 }
 
 
