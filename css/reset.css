@@ -5,9 +5,8 @@
     box-sizing: border-box;
 }
 
-a
+a, p, h1
 {
-    text-decoration: none;
     font-family: 'Roboto', sans-serif;
 }
 

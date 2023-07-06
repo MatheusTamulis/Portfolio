@@ -1,0 +1,12 @@
+.projects-section
+{
+    background-color: rgb(87, 87, 235);
+}
+
+.projects-section .tittle
+{
+    display: block;
+    text-align: center;
+    color: rgb(247, 247, 247);
+    font-size: 35px;
+}
