@@ -1,0 +1,16 @@
+.main-contact
+{
+    text-align: center;
+    line-height: 1.4;
+}
+
+.main-contact .title
+{
+    font-size: 70px;
+}
+
+.main-contact .text
+{
+    font-size: 20px;
+    font-weight: 300;
+}
