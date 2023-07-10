@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
 a, p, h1, span
 {
     font-family: 'Roboto', sans-serif;

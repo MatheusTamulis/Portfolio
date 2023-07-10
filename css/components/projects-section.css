@@ -1,7 +1,10 @@
 .projects-section
 {
-    background-color: #5f9ea0;
-    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #45567d;
+    padding: 6rem 2rem;
 }
 
 .projects-section .title-header

@@ -1,0 +1,14 @@
+.main-button
+{
+    display: inline-block;
+    background-color: #303841;
+    border-radius: 2px;
+    padding: 1rem 2rem;
+    font-size: 20px;
+    transition: .3s;
+}
+
+.main-button:hover
+{
+    background-color: #be3144;
+}

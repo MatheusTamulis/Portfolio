@@ -3,6 +3,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 70px auto 0 auto;
-    width: 90%;
+    margin: 70px auto 70px auto;
+    width: 100%;
 }
