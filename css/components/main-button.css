@@ -3,7 +3,7 @@
     display: inline-block;
     background-color: #303841;
     border-radius: 2px;
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
     font-size: 20px;
     transition: .3s;
 }
@@ -11,4 +11,15 @@
 .main-button:hover
 {
     background-color: #be3144;
+}
+
+.main-button .fa-chevron-right
+{
+    margin-left: 10px;
+    transition: .5s;
+}
+
+.main-button:hover .fa-chevron-right
+{
+    transform: translateX(5px);
 }
