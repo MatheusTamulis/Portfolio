@@ -1,4 +1,8 @@
 .main-footer
 {
     border-top: 5px solid #be3144;
+    background-color: #303841;
+    padding: 50px 0 50px 100px;
+    font-size: 20px;
+    font-weight: 300;
 }
