@@ -1,0 +1,27 @@
+.main-link
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(28, 113, 187);
+    margin-top: 50px;
+    font-size: 25px;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px 0 #000;
+}
+
+.main-link .contact
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    transition: .5s;
+}
+
+.main-link .contact:hover
+{
+    transform: translateY(8px);
+}
+
+.main-link .links
+{
+    margin-right: 6px;
+}
